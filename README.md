@@ -3,7 +3,7 @@ Teste de desenvolvimento para ser um MED.
 
 Requisitos
 ======
-A aplicação deve ser desenvolvida de preferência com Ruby On Rails (back-end) utilizando Javascript como integração (front-end) e deve possuir todas as funcionalidades exemplificadas no [mockup](https://github.com/Medicinia/Medicinia-Test/blob/master/public/images/TesteMedicinia.jpg):
+A aplicação deve ser desenvolvida com Angular (https://angular.io/) e deve possuir todas as funcionalidades exemplificadas no [mockup](https://github.com/Medicinia/Medicinia-Test/blob/master/public/images/TesteMedicinia.jpg):
 
  0. Página com uma experiência agadável em qualquer dispositivo; 
  1. Três tipos de notificações (Consulta, Cirurgia e Exame);
@@ -19,8 +19,6 @@ Desejável
 ======
 
  * Validação dos formulários.
- * Algum framework MV* de mercado para integração.
- * Algum template engine ([Underscore](http://underscorejs.org/), [Handlebars](http://handlebarsjs.com/), [Mustache](http://mustache.github.io/)).
  
 Mockup
 ======
