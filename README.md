@@ -8,12 +8,11 @@ A aplicação deve ser desenvolvida com Angular (https://angular.io/) e deve pos
  0. Página com uma experiência agadável em qualquer dispositivo; 
  1. Três tipos de notificações (Consulta, Cirurgia e Exame);
  2. Listagem de notificações;
- 3. Filtro por tipo de notificação;
- 4. Busca por trecho de observação da notificação;
- 5. Criação de uma nova notificação com atualização da listagem de forma assíncrona;
+ 3. Filtro por tipo de notificação (e por 'status' - favorita, arquivada);
+ 4. Criação de uma nova notificação com atualização da listagem de forma assíncrona;
    * A utilização de um serviço webhook ([Pusher](https://pusher.com/), [hook.io](https://hook.io/)) será vista com bons olhos.
- 6. Os dados devem ser persistidos;
- 7. Documentação de como rodar sua aplicação.
+ 5. Os dados devem ser persistidos;
+ 6. Documentação de como rodar sua aplicação.
 
 Desejável
 ======
@@ -22,12 +21,9 @@ Desejável
  
 Mockup
 ======
-Acesse [zeplin.io](https://zeplin.io/) com os dados:
-
-        user: medicinia
-    password: medicinia
-
-Ícones para desenvolvimento do layout em [/resources](https://github.com/Medicinia/Medicinia-Test/tree/master/resources).
+<b>Ícones para desenvolvimento do layout</b><br>
+Não é necessário utilizar os mesmos ícones do mock.<br>
+Sugestão para substituição: [Flaticon](https://www.flaticon.com)
 
 Avaliação
 ======
