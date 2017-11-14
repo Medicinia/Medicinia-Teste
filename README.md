@@ -3,7 +3,7 @@ Teste de desenvolvimento para ser um MED.
 
 Requisitos
 ======
-A aplicação deve ser desenvolvida com Angular (https://angular.io/) e deve possuir todas as funcionalidades exemplificadas no [mockup](https://github.com/Medicinia/Medicinia-Test/blob/master/public/images/TesteMedicinia.jpg):
+A aplicação deve ser desenvolvida com Angular (https://angular.io/) e deve possuir todas as funcionalidades exemplificadas no [mockup](https://xd.adobe.com/view/100570a7-37cb-488e-abde-d11535c9be9d/):
 
  0. Página com uma experiência agadável em qualquer dispositivo; 
  1. Três tipos de notificações (Consulta, Cirurgia e Exame);
