@@ -24,7 +24,30 @@ Desejável
 API
 ======
 Documentação da API para construção do Mockup
+
+###### Base URL
+https://medicinia-e04e.restdb.io/rest
+
+###### Header padrão para requisições
+**x-apikey:** 69d03052a08ad4496ce4758478c0aafd085ab
+
+**content-type:** application/json
+
+**Cache-Control:** no-cache
+
+#### Swagger
 [Link API](https://medicinia-e04e.restdb.io/apps/swagger/?url=https://medicinia-e04e.restdb.io/rest/_swagger.json)
+
+https://medicinia-e04e.restdb.io/rest/_jsapi.doc
+##### Notificações
+https://medicinia-e04e.restdb.io/rest/_jsapi.doc#notification
+##### Pacientes
+https://medicinia-e04e.restdb.io/rest/_jsapi.doc#patients
+##### Notas - Dados Genéricos
+https://medicinia-e04e.restdb.io/rest/_jsapi.doc#notes
+##### Tags
+https://medicinia-e04e.restdb.io/rest/_jsapi.doc#tags
+
  
 Mockup
 ======
