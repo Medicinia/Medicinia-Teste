@@ -12,7 +12,7 @@ A aplicação deve ser desenvolvida preferencialmente com Angular (https://angul
  4. Criação de uma nova notificação com atualização da listagem de forma assíncrona;
    * A utilização de um serviço webhook ([Pusher](https://pusher.com/), [hook.io](https://hook.io/)) será vista com bons olhos.
  5. [Plus] Criação de *tags* no perfil de cada paciente
- 6. [Plus] Criação/Edição de *dados genéricos* no perfil de cada paciente
+ 6. [Plus] Criação/Edição de *dados genéricos* (notes na API) no perfil de cada paciente
  7. Os dados devem ser persistidos;
  8. Documentação de como rodar sua aplicação.
 
